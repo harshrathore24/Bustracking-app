@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213234107036",
+    "project_id": "loginandsignup-7c7c9",
+    "storage_bucket": "loginandsignup-7c7c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213234107036:android:9e1331109d8a15e7b82359",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213234107036-28aouq8rplv95a9h9l6jaro95i4miaoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Sf5K6BaXJ2yYWbMVgNfgYKbArTMWxw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213234107036-28aouq8rplv95a9h9l6jaro95i4miaoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
